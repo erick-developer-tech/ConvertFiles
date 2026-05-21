@@ -1,4 +1,4 @@
-ConvertFiles 📄🔄
+ConvertFiles 📄🔄 LIMITADO A SOLO 3 HOJAS
 
 **ConvertFiles** es una aplicación de escritorio ligera desarrollada en **C# con Windows Forms (WinForms)**. Su objetivo principal es permitir la conversión local de archivos de Microsoft Word (`.docx`) a formato `PDF` de manera rápida, intuitiva y sin necesidad de tener instalado Microsoft Office en el sistema.
 
